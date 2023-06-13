@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 499e910a2eef94e598446485daa271c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - demonSprite: {fileID: 8027343663832286832, guid: 630fec0e33f8a46cb831d728d87bfb36,
+      type: 3}
+  - jellySprite: {fileID: -7021677368815861959, guid: 630fec0e33f8a46cb831d728d87bfb36,
+      type: 3}
+  - wolfSprite: {fileID: 5563182662414332358, guid: 630fec0e33f8a46cb831d728d87bfb36,
+      type: 3}
+  - chestSprite: {fileID: -3980059813776728996, guid: 81c14917ea79e46d1a821a63909b0440,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

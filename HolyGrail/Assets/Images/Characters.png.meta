@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 630fec0e33f8a46cb831d728d87bfb36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8027343663832286832
+    second: Demon01
+  - first:
+      213: -1830688011459934703
+    second: Demon02
+  - first:
+      213: 4659491877841095132
+    second: Demon03
+  - first:
+      213: 5857262629622345360
+    second: Hero01
+  - first:
+      213: 4485112904413307370
+    second: Hero02
+  - first:
+      213: -7658247642676980250
+    second: Hero03
+  - first:
+      213: 6671447209256303453
+    second: Hero04
+  - first:
+      213: -7957559382866393258
+    second: Hero05
+  - first:
+      213: -4929874514868642954
+    second: Hero06
+  - first:
+      213: 5743231164489231681
+    second: Hero07
+  - first:
+      213: -775802356707330842
+    second: Hero08
+  - first:
+      213: -8674257564477153126
+    second: Hero09
+  - first:
+      213: -8194018260435687373
+    second: Hero10
+  - first:
+      213: -1818959131594225391
+    second: Hero11
+  - first:
+      213: -5213948900102136142
+    second: Hero12
+  - first:
+      213: -7021677368815861959
+    second: Jelly01
+  - first:
+      213: -4310440894914993148
+    second: Jelly02
+  - first:
+      213: 2792442647962464677
+    second: Jelly03
+  - first:
+      213: 5563182662414332358
+    second: Wolf01
+  - first:
+      213: -2954278145815763651
+    second: Wolf02
+  - first:
+      213: -3037133851116858650
+    second: Wolf03
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc55784ec0244acd8d20fff253d6725
+      internalID: 8027343663832286832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon02
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29237d4cb6ae04dd6b0150b46252e60a
+      internalID: -1830688011459934703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon03
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8c53364cdc417091fbe425459245f
+      internalID: 4659491877841095132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero01
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccfc4cf20d24bdcaf76f328e6101be
+      internalID: 5857262629622345360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero02
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ed58ad495f04b85a79c7dd13d2ec98
+      internalID: 4485112904413307370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero03
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c22c85673a414e96c812d96726ef8
+      internalID: -7658247642676980250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero04
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe46630894c7490895bd0260c593a51
+      internalID: 6671447209256303453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d8982fb2604883b8ddf53f8c7a5b5
+      internalID: -7957559382866393258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero06
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3f5d3aea11488c9d6f1180ade1216
+      internalID: -4929874514868642954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero07
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9540702a620ec4474a0add4519d6904f
+      internalID: 5743231164489231681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero08
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589f6be368a7046b0b422c6f2c8b96a4
+      internalID: -775802356707330842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero09
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729e97a0680a548c0964a10fa552d9c8
+      internalID: -8674257564477153126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dfeb88deb144de0bdd05398bc06e79
+      internalID: -8194018260435687373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 156
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df07e010bd445cdbffc74f7062db3e
+      internalID: -1818959131594225391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95f4230d51244ed9664aa527d0422a
+      internalID: -5213948900102136142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelly01
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c8ca6b2f9bf4d859d31ca7afa4b836
+      internalID: -7021677368815861959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelly02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79e3532c93f48a5b2dc6b6f21f0cde
+      internalID: -4310440894914993148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jelly03
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d678cbb2a54be38560e091dd65b48
+      internalID: 2792442647962464677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785aea826bb2a4f3aa274ed32d51e372
+      internalID: 5563182662414332358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf02
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d6909c4213414e8ee4e830e2ef07f
+      internalID: -2954278145815763651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf03
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e6fee163c245e9ba03084a5419217
+      internalID: -3037133851116858650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Demon01: 8027343663832286832
+      Demon02: -1830688011459934703
+      Demon03: 4659491877841095132
+      Hero01: 5857262629622345360
+      Hero02: 4485112904413307370
+      Hero03: -7658247642676980250
+      Hero04: 6671447209256303453
+      Hero05: -7957559382866393258
+      Hero06: -4929874514868642954
+      Hero07: 5743231164489231681
+      Hero08: -775802356707330842
+      Hero09: -8674257564477153126
+      Hero10: -8194018260435687373
+      Hero11: -1818959131594225391
+      Hero12: -5213948900102136142
+      Jelly01: -7021677368815861959
+      Jelly02: -4310440894914993148
+      Jelly03: 2792442647962464677
+      Wolf01: 5563182662414332358
+      Wolf02: -2954278145815763651
+      Wolf03: -3037133851116858650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

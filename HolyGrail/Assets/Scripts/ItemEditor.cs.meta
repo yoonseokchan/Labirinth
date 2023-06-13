@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 41d72386968d5411ba42983a855e9403
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - holySprite: {fileID: -2083154427574985184, guid: 81c14917ea79e46d1a821a63909b0440,
+      type: 3}
+  - maceSprite: {fileID: -6759049477965372836, guid: 81c14917ea79e46d1a821a63909b0440,
+      type: 3}
+  - swordSprite: {fileID: -1879306598302859882, guid: 81c14917ea79e46d1a821a63909b0440,
+      type: 3}
+  - keySprite: {fileID: 9198678579800050646, guid: 81c14917ea79e46d1a821a63909b0440,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
